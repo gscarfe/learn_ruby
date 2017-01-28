@@ -1,7 +1,7 @@
 # learn_ruby
-A place to store my ruby scraps. This is a way to help me learn both git and the ruby language.
+A place to store my ruby scraps.
 
-# git commands
+# basic git commands
 
 * git clone [URL of remote repo] == creates a clone of a local repo on your local machine, in the directory you're currently in 
 * git pull == pull from remote repo
