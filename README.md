@@ -13,3 +13,4 @@ Command | Action
 * git status | tells you if your local branch is ahead/behind origin and if you have any pending commits
 * git push | pushes commits to the remote branch
 * git log | deatiled list of commit activity including dates and times
+* git checkout name_of_branch | switches to named branch
