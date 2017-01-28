@@ -2,3 +2,6 @@ This is just a simple text file on a new branch. Nothing useful here.
 
 Look! This is my new feature.
 Feature number 2.
+Feature number 3.
+Feature number 4.
+Feature number 5.
