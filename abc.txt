@@ -1,1 +1,3 @@
 This is just a simple text file on a new branch. Nothing useful here.
+
+Look! This is my new feature.
