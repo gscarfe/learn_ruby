@@ -4,8 +4,8 @@ A place to store my ruby scraps.
 # basic git commands
 
 Command | Action
--------| -------
-* git clone [URL of remote repo] | creates a clone of a local repo on your local machine, in the directory you're currently in 
+--------| -------
+* git clone [URL of remote repo] | creates a clone of a remote repo on your local machine, in the directory you're currently in 
 * git pull | pull from remote repo
 * git diff | shows changes you've made (do this before commiting)
 * git diff --word-diff | shows changes side by side
