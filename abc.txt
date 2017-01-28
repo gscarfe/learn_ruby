@@ -5,3 +5,7 @@ Feature number 2.
 Feature number 3.
 Feature number 4.
 Feature number 5.
+
+Feature number 6.
+Feature number 7.
+Feature number 8.
