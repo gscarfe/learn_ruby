@@ -1,5 +1,5 @@
 # learn_ruby
-A place to store my ruby scraps and practice things.
+A place to store my ruby scraps and practice things. Blah Blah Blah.....
 
 # basic git commands to use
 
